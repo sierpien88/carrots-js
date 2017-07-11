@@ -1,0 +1,54 @@
+﻿body{
+	font-family: 'Indie Flower', cursive !important;
+	background-color: #f1f1f1 !important;
+	font-size: 20px !important;
+}
+.grey{
+	background-color: #808080;
+	font-size: 40px;
+	padding: 15px;
+}
+img{
+	background-color: #BF7700;
+	height: 150px;
+	width: 150px;
+	margin: 20px;
+}
+
+.col-md-4{
+	background-color: #d3efc6;
+	width: 100%;
+	padding: 0 !important;
+	min-height: 850px!important;
+	
+}
+
+.h1{
+	font-weight: bold;
+	font-size: 30px !important;
+	
+	
+}
+.col-md-4 .h1{
+	background-color: #b0d09f;
+
+
+}
+.col-md-8 .h1{
+	background-color: #dfdfdf;
+}
+.list{
+  list-style: none;
+  padding-left:10px;
+	
+}
+
+.list li:before {
+  content: '✓ ';
+}
+.grey2{
+	background-color: #808080;
+}
+.motivationPadding{
+	padding: 10px;
+}
